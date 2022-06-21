@@ -1,0 +1,74 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  img {
+    max-width: 100%;
+    height: 100%;
+  }
+  a {
+    text-decoration: none;
+  }
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: "Roboto", sans-serif;
+  }
+  p,
+  span,
+  a {
+    font-family: "Open Sans", sans-serif;
+  }
+
+  .head{
+    text-align: center;
+    padding: 30px;
+    text-transform: uppercase;
+  }
+  .head hr{
+    width: 160px;
+    margin: 0 auto;
+  }
+
+ .first_secton {
+    width: 1140px;
+    margin: 0 auto;
+  }
+.first_secton img{
+    float: left;
+    width: 300px;
+    margin-right: 15px;
+}
+.docume {
+	margin-top: 20px;
+}
+.second_section{
+  width: 1140px;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+.second_section img {
+	float: right;
+	width: 300px;
+}
+.third_section{
+  width: 1140px;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+.third_section img {
+	width: 568px;
+}
+.section_four{
+  width: 1140px;
+  margin: 0 auto;
+}
+.title{
+  text-align: center;
+  padding: 20px;
+}
+
+
